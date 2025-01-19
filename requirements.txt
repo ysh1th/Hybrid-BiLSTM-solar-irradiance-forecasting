@@ -1,0 +1,12 @@
+catboost==1.2.2
+lightgbm==4.5.0
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+tensorflow==2.15.0
+tensorflow-estimator==2.15.0
+tensorflow-io-gcs-filesystem==0.37.1
+tensorflow-macos==2.15.0
+xgboost==2.0.2
